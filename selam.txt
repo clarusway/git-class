@@ -1,1 +1,2 @@
-ici bos olmasi normal
+merhaba
+>>>>>>> exx
