@@ -36,3 +36,7 @@ git checkout main
 git merge experiment.. there was conflict 
 
 >>>>>>> experiment
+>>>>>>> 
+I am now on github 9:09 a.m
+one more time...
+
