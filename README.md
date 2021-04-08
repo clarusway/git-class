@@ -31,4 +31,4 @@ I used following commands had problem
 git add . and commit in experiment then 
 git checkout main
 git merge experiment.. there was conflict 
-
+ok I do not see github and git main changes here 9:13
