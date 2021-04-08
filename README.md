@@ -34,9 +34,13 @@ I used following commands had problem
 git add . and commit in experiment then 
 git checkout main
 git merge experiment.. there was conflict 
+<<<<<<< HEAD
 
 >>>>>>> experiment
 >>>>>>> 
 I am now on github 9:09 a.m
 one more time...
 good now I am in main branch checking read me file and editing 9:10. 
+=======
+ok I do not see github and git main changes here 9:13
+>>>>>>> experiment
