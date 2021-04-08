@@ -1,0 +1,21 @@
+In most cases, it is simple to delete a Git branch. You'll learn how to delete a Git brach locally and remotely in this article.
+
+When to Delete branches
+It is common for a Git repo to have different branches. They are a great way to work on different features and fixes while isolating the new code from the main codebase.
+
+Repos often have a master branch for the main codebase and developers create other branches to work on different features.
+
+Once work is completed on a feature, it is often recommended to delete the branch.
+
+Deleting a branch LOCALLY
+Git will not let you delete the branch you are currently on so you must make sure to checkout a branch that you are NOT deleting. For example: git checkout master
+
+Delete a branch with git branch -d <branch>.
+
+For example: git branch -d fix/authentication
+
+The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet.
+
+The branch is now deleted locally.
+
+for more info: https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
