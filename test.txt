@@ -3,4 +3,5 @@ prin("Hello World")
 hi
 test file
 print("New line")
-hi So was Jean 
+hi So was Jean
+Hello Jean I did some minor changes  
