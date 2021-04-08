@@ -39,4 +39,4 @@ git merge experiment.. there was conflict
 >>>>>>> 
 I am now on github 9:09 a.m
 one more time...
-
+good now I am in main branch checking read me file and editing 9:10. 
