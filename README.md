@@ -22,4 +22,17 @@ then will check my github account try to find out changes..
 8:37 am I did minor changes here..and now will go back to my experiment branch will do rebase
 >>>>>>> main
 
+<<<<<<< HEAD
 I do see my changes here 8:57.. still need to work on it.
+=======
+8:59 I am in experiment branch..
+
+I am here again.. 9:02 a.m
+
+I used following commands had problem
+
+git add . and commit in experiment then 
+git checkout main
+git merge experiment.. there was conflict 
+
+>>>>>>> experiment
