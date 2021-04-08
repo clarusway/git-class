@@ -23,3 +23,12 @@ then will check my github account try to find out changes..
 >>>>>>> main
 
 8:59 I am in experiment branch..
+
+I am here again.. 9:02 a.m
+
+I used following commands had problem
+
+git add . and commit in experiment then 
+git checkout main
+git merge experiment.. there was conflict 
+
