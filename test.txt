@@ -1,7 +1,2 @@
-
-prin("Hello World")
-hi
-test file
-print("New line")
-hi So was Jean
-Hello Jean I did some minor changes  
+I am making some changes here then will check the status! 
+This is another line to text.txt and will store it to the local repo
